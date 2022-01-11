@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\bin\Debug\net5.0\hayvanatyonetim.exe
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\bin\Debug\net5.0\hayvanatyonetim.deps.json
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\bin\Debug\net5.0\hayvanatyonetim.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\bin\Debug\net5.0\hayvanatyonetim.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\bin\Debug\net5.0\hayvanatyonetim.dll
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\bin\Debug\net5.0\ref\hayvanatyonetim.dll
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\bin\Debug\net5.0\hayvanatyonetim.pdb
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\obj\Debug\net5.0\hayvanatyonetim.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\obj\Debug\net5.0\hayvanatyonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\obj\Debug\net5.0\hayvanatyonetim.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\obj\Debug\net5.0\hayvanatyonetim.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\obj\Debug\net5.0\hayvanatyonetim.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\obj\Debug\net5.0\hayvanatyonetim.dll
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\obj\Debug\net5.0\ref\hayvanatyonetim.dll
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\obj\Debug\net5.0\hayvanatyonetim.pdb
+C:\Users\volkan\OneDrive\Belgeler\UMLdiyagramlarım\hayvanatyonetim\obj\Debug\net5.0\hayvanatyonetim.genruntimeconfig.cache
